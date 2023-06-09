@@ -29,9 +29,18 @@
             <h1>Calculadora de idade</h1>
 
             <div class="calculator">
-                <h1>Escolha sua data:</h1>
-                <!-- <input type="date" name="date" id="date"> -->
-                <input type="datetime" name="date" id="date">
+                <div class="select">
+                    <h1>Escolha sua data:</h1>
+                    <select id="inputType" onchange="toggleInput()">
+                        <option value="selector" selected>Seletor</option>
+                        <option value="text">Texto</option>
+                    </select>
+                </div>
+
+                <input class="seletor" type="date" name="date" id="selectorInput">
+                <input style="display: none;" class="texto" type="datetime" name="date" id="textInput"
+                    placeholder="dd/mm/aaaa">
+
                 <button class="calcular">Calcular</button>
             </div>
 

@@ -33,6 +33,11 @@ section {
     padding: 10px;
 }
 
+.select {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
 
 .calculator {
     margin-top: 50px;
