@@ -10,10 +10,10 @@
 <br>
  
  # Como utilizar
-Abra o site no seu navegador.
-Insira a sua data de nascimento no campo designado.
-Clique no botão "Calcular Idade".
-O site exibirá a sua idade atual em anos.
+1 - Abra o site no seu navegador.<br>
+2 - Insira a sua data de nascimento no campo designado.<br>
+2 - Clique no botão "Calcular Idade".<br>
+3 - O site exibirá a sua idade atual em anos.<br>
 <br>
  
 <h1>Este projeto pode ser visto aqui  <a href='https://luizh3nr1que.github.io/CalculadoraAnos/'>aqui</a></h1>
