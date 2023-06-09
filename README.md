@@ -12,7 +12,7 @@
  # Como utilizar
 1 - Abra o site no seu navegador.<br>
 2 - Insira a sua data de nascimento no campo designado.<br>
-2 - Clique no botão "Calcular Idade".<br>
+2 - Clique no botão "Calcular".<br>
 3 - O site exibirá a sua idade atual em anos.<br>
 <br>
  
