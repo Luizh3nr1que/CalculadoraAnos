@@ -103,7 +103,7 @@ section {
     align-items: center;
     justify-content: center;
     display: none;
-    animation: slide 1s linear forwards;
+    animation: slide .3s linear forwards;
 }
 
 @keyframes slide {
@@ -131,7 +131,7 @@ section {
     border: none;
     color: white;
     display: none;
-    animation: slide 1s linear forwards;
+    animation: slide .3s linear forwards;
 }
 
 
